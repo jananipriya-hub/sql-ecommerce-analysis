@@ -1,14 +1,14 @@
-#E-Commerce Data Analysis - SQL
+# E-Commerce Data Analysis - SQL
 
-#Project Overview
+# Project Overview
 
 This project analyzes e-commerce transaction data using SQL to identify customer purchasing behavior, product performance, and revenue trends. The analysis focuses on understanding how customers interact with the platform and which factors contribute most to overall revenue.
 
-#Project Objective
+# Project Objective
 
 The objective of this project is to analyze transactional e-commerce data and extract meaningful insights related to sales performance, customer spending patterns, product category performance, and payment trends.
 
-#Features
+# Features
 
 1. Customer spending analysis
 
@@ -20,7 +20,7 @@ The objective of this project is to analyze transactional e-commerce data and ex
 
 5. Customer ranking based on spending
 
-#Tools Used
+# Tools Used
 
 1.SQL
 
@@ -32,14 +32,14 @@ The objective of this project is to analyze transactional e-commerce data and ex
 
 5.Data Analysis
 
-#Dataset
+# Dataset
 
 This project is based on the Brazilian E-Commerce Public Dataset by Olist.
 
 The original dataset contains more than 100,000 orders and multiple related tables including customers, orders, order items, products, and payments.
 Due to execution limitations in the online SQL environment, a simplified dataset was created to simulate the relational structure and demonstrate SQL analysis.
 
-#Database Schema
+# Database Schema
 
 The database was structured using relational tables:
 
@@ -55,7 +55,7 @@ The database was structured using relational tables:
 
 These tables were connected using appropriate keys to simulate an e-commerce transactional database.
 
-#Key Analysis
+# Key Analysis
 
 The analysis performed in this project includes:
 
@@ -71,7 +71,7 @@ The analysis performed in this project includes:
 
 6.Ranking customers based on spending using window functions
 
-#Key Insights
+# Key Insights
 
 Here are some insights derived from the analysis:
 
@@ -89,7 +89,7 @@ Here are some insights derived from the analysis:
 
 7.A small group of repeat customers contributes significantly to overall revenue.
 
-#Business Recommendations
+# Business Recommendations
 
 Here are some recommendations derived from the analysis:
 
@@ -103,7 +103,7 @@ Here are some recommendations derived from the analysis:
 
 5.Introduce bundle offers or cross-selling strategies to increase the average order value.
 
-#How to Use
+# How to Use
 
 Open the schema.sql file to view the database structure and sample data.
 
@@ -111,6 +111,6 @@ Run the SQL queries in queries.sql using PostgreSQL or any compatible SQL enviro
 
 Review the query results to understand the analysis and insights.
 
-#Author
+# Author
 
 Janani Priya
